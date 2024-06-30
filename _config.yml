@@ -1,0 +1,88 @@
+---
+booktitle: Proceedings of Thirty Seventh Conference on Learning Theory
+shortname: COLT
+sections:
+- name: Preface
+  title: Preface
+- name: Original Papers
+  title: Original Papers
+- name: Open Problems
+  title: Open Problems
+volume: '247'
+year: '2024'
+published: 2024-06-30
+start: 2023-06-30
+end: 2023-07-03
+conference_number: '37'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: COLT2024
+month: 0
+cycles: false
+bibtex_editor: Agrawal, Shipra and Roth, Aaron
+editor:
+- given: Shipra
+  family: Agrawal
+- given: Aaron
+  family: Roth
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of Thirty Seventh Conference on Learning Theory
+    Held in Edmonton, Canada on 30 June to 03 July 2023
+
+  Published as Volume 247 by the Proceedings of Machine Learning Research on 30 June 2024.
+
+  Volume Edited by:
+    Shipra Agrawal
+    Aaron Roth
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 30 Jun--03 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v247"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v247
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v247
+email: ''
+conference:
+  name: The Thirty Seventh Annual Conference on Learning Theory
+  url: https://learningtheory.org/colt2024/
+  location: Edmonton, Canada
+  dates:
+  - 2023-06-30
+  - 2023-07-01
+  - 2023-07-02
+  - 2023-07-03
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v247/colt2024.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v247/colt2024.bib
